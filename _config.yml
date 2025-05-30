@@ -1,0 +1,14 @@
+# 站点配置
+title: "我的博客"
+description: "使用 Jekyll 搭建的个人博客"
+baseurl: ""      # 站点部署在根目录时留空
+url: "https://iamsparks666.github.io"  # 替换为你的 GitHub Pages 域名
+
+author:
+  name: "sparks"
+  email: "iamsparks1998@outlook.com"
+
+theme: minima     # 使用官方 minima 主题，也可自定义
+
+# 构建设置
+markdown: kramdown
